@@ -151,9 +151,11 @@ reasonable.
 
  .. code-block:: none
 
-    [datetime.datetime(2018, 8, 14, 21, 0)
-     datetime.datetime(2018, 8, 15, 0, 0) datetime.datetime(2018, 8, 15, 3, 0)
-     datetime.datetime(2018, 8, 15, 6, 0) datetime.datetime(2018, 8, 15, 9, 0)]
+    [datetime.datetime(2018, 10, 30, 18, 0)
+     datetime.datetime(2018, 10, 30, 21, 0)
+     datetime.datetime(2018, 10, 31, 0, 0)
+     datetime.datetime(2018, 10, 31, 3, 0)
+     datetime.datetime(2018, 10, 31, 6, 0)]
 
 
 Now we can plot these up using matplotlib, which has ready-made support for `datetime`
@@ -176,7 +178,7 @@ objects.
 
 
 
-**Total running time of the script:** ( 0 minutes  2.035 seconds)
+**Total running time of the script:** ( 0 minutes  3.601 seconds)
 
 
 .. _sphx_glr_download_examples_ncss_NCSS_Timeseries_Examples.py:
